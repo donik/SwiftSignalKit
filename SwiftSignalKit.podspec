@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "SwiftSignalKit"
+  s.name         = "GDKSwiftSignalKit"
   s.version      = "0.0.1"
   s.summary      = "An experimental Rx- and RAC-3.0-inspired FRP framework"
   s.homepage     = "https://github.com/donik/SwiftSignalKit"
